@@ -2,11 +2,17 @@
 
 # material #
 
+https://github.com/SkriptLang/skript-aliases/blob/master/transportation.sk
+
 `[11:03:24] [Server thread/ERROR]: Minecraft id minecart with tnt is not valid (transportation.sk, line 36: any minecart¦s = minecart, minecart with chest, minecart with furnace, minecart with TNT, minecart with hopper, minecart with command block')`
+
+https://github.com/SkriptLang/skript-aliases/commit/55731cb63c593c86cf73ad8ab0fa94edabd000a6
 
 `[11:03:52] [Server thread/ERROR]: can't understand this event: 'on right click on wall sign' (Survie/paradis.sk, line 203: on right click on wall sign:')`
 
 # enchant #
+
+https://github.com/SkriptLang/Skript/issues/2063
 
 `[11:03:26] [Server thread/ERROR]: Can't understand this condition/effect: enchant loop-value with infinity 1 (Autres/menu.sk, line 55: enchant loop-value with infinity 1')`
 
@@ -23,6 +29,8 @@ named "&aEpée de Dieu" to player')`
 
 
 ### Sk-RayFall ###
+
+https://github.com/eyesniper2/skRayFall/issues/41
 
 `[11:03:53] [Server thread/ERROR]: Can't understand this condition/effect: send player title "" with subtitle "&2+ %{_n}% Niveaux" for 1 second (Survie/xpbank.sk, line 100: send player title "" with subtitle "&2+ %{_n}% Niveaux" for 1 second')`
 
