@@ -48,19 +48,3 @@ retour parmis les humains." for 2 seconds')`
 
 `[11:03:54] [Server thread/ERROR]: There's no loop that matches 'loop-player to "&8[&2SS&8] %colored player's prefix%%player% &1/%full command%"' (global.sk, line 276: set action bar of loop-player to "&8[&2SS&8] %colored player's prefix%%player% &1/%full command%"')`
 
-
-### Sk-NBeeT ###
-
-`[11:03:52] [Server thread/ERROR]: Can't understand this condition/effect: spawn a undead horse at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 299: spawn a undead horse at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:52] [Server thread/ERROR]: Can't understand this condition/effect: spawn a giant at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 302: spawn a giant at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:52] [Server thread/ERROR]: Can't understand this condition/effect: spawn 1 evoker at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 307: spawn 1 evoker at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:52] [Server thread/ERROR]: Can't understand this condition/effect: spawn 1 vindicator at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 311: spawn 1 vindicator at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:52] [Server thread/ERROR]: Can't understand this condition/effect: spawn 1 guardian at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 315: spawn 1 guardian at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:53] [Server thread/ERROR]: Can't understand this condition/effect: spawn 1 guardian at event-location with nbt "{PersistenceRequired:0b}" (Survie/survie.sk, line 319: spawn 1 guardian at event-location with nbt "{PersistenceRequired:0b}"')`
-
-`[11:03:27] [Server thread/ERROR]: event-item stack is not a world (Survie/economie.sk, line 136: reset nbt of event-item')`
