@@ -13,12 +13,12 @@ shop1:
     item: cobblestone
     number: 48
     prix: 10
-    name: CobbleStone
+    name: Bloc de pierre
   item4:
     item: glass block
     number: 20
     prix: 7
-    name: Block de Verre
+    name: Bloc de Verre
   item5:
     item: oak log
     number: 12
@@ -254,7 +254,7 @@ shop4:
     item: iron block
     number: 3
     prix: 80
-    name: Block de Fer
+    name: Bloc de Fer
   item3:
     item: apple
     number: 24
@@ -336,12 +336,12 @@ shop5:
     item: gold block
     number: 3
     prix: 162
-    name: Block d'Or
+    name: Bloc d'Or
   item3:
     item: iron block
     number: 5
     prix: 190
-    name: Block de Fer
+    name: Bloc de Fer
   item4:
     item: blaze rod
     number: 3
@@ -356,12 +356,12 @@ shop5:
     item: string
     number: 32
     prix: 50
-    name: Fil
+    name: Ficelle
   item7:
     item: cocoa beans
     number: 16
     prix: 20
-    name: Poudre cacao
+    name: Poudre de cacao
   item8:
     item: 0
     number: 0
@@ -510,7 +510,7 @@ shop7:
     item: potato
     number: 32
     prix: 25
-    name: Patate
+    name: Pomme de terre
   item5:
     item: pumpkin 
     number: 16
@@ -525,7 +525,7 @@ shop7:
     item: Golden Carrot
     number: 16
     prix: 32
-    name: Golden Carrot
+    name: Carrote dorée
   item8:
     item: cactus
     number: 16
@@ -674,7 +674,7 @@ shop9:
     item: heart of the sea
     number: 1
     prix: 150
-    name: Coeur de la mer
+    name: Cœur de la mer
   item5:
     item: conduit
     number: 1
@@ -684,7 +684,7 @@ shop9:
     item: name tag
     number: 3
     prix: 80
-    name: Etiquette
+    name: Étiquette
   item7:
     item: turtle egg
     number: 16
@@ -741,22 +741,22 @@ shop10:
     item: obsidian
     number: 64
     prix: 150
-    name: 0
+    name: Bloc d'obsidenne
   item2:
     item: diamond ore
     number: 3
     prix: 350
-    name: 0
+    name: Bloc de diamant
   item3:
     item: emerald block
     number: 1
     prix: 230
-    name: 0
+    name: Bloc d'emeraude
   item4:
     item: Lapis Block
     number: 5
     prix: 100
-    name: Block de Lapis
+    name: Bloc de Lapis
   item5:
     item: 0
     number: 0
@@ -823,17 +823,17 @@ shop11:
     item: oak log
     number: 32
     prix: 19
-    name: 0
+    name: Buche de chêne
   item2:
     item: spruce log
     number: 32
     prix: 19
-    name: 0
+    name: Bûche de sapin
   item3:
     item: dark oak log
     number: 32
     prix: 19
-    name: 0
+    name: Bûche de chêne noir
   item4:
     item: 0
     number: 0
@@ -843,17 +843,17 @@ shop11:
     item: birch log
     number: 32
     prix: 19
-    name: 0
+    name: Bûche de bouleau
   item6:
     item: acacia log
     number: 32
     prix: 19
-    name: 0
+    name: Bûche d'acacia
   item7:
     item: jungle log
     number: 32
     prix: 19
-    name: 0
+    name: Bûche d'acajou
   item8:
     item: 0
     number: 0
@@ -931,7 +931,6 @@ shop12:
     number: 8
     prix: 50
     name: Tnt
-    name: 0
   item7:
     item: 0
     number: 0
@@ -993,7 +992,7 @@ shop13:
     item: elytra
     number: 1
     prix: 160
-    name: Elytra
+    name: Elytre
   item3:
     item: Ender pearl
     number: 64
@@ -1008,7 +1007,7 @@ shop13:
     item: End Crystal
     number: 1
     prix: 150
-    name: End Crystal
+    name: Crystal de l'End
   item6:
     item: Dragon Head
     number: 1
@@ -1070,17 +1069,17 @@ shop14:
     item: nether star
     number: 1
     prix: 750
-    name: 0
+    name: Étoile du Nether
   item2:
     item: trident
     number: 1
     prix: 300
-    name: trident
+    name: Trident
   item3:
     item: enchanted golden apple
     number: 1
     prix: 2500
-    name: 0
+    name: Pomme d'or enchantée
   item4:
     item: sugar cane
     number: 16
@@ -1100,7 +1099,7 @@ shop14:
     item: Glistering Melon Slice
     number: 8
     prix: 24
-    name: Glistering Melon
+    name: Melon Scintillant
   item8:
     item: 0
     number: 0
