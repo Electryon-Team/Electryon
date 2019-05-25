@@ -3,32 +3,32 @@ shop1:
     item: Rose Red
     number: 32
     prix: 32
-    name: §7«§b Rose Rouge §7»
+    name: Rose Rouge
   item2:
     item: cooked beef
     number: 8
     prix: 20
-    name: §7«§b Steak Cuit §7»
+    name: Steak Cuit
   item3:
     item: cobblestone
     number: 48
     prix: 10
-    name: §7«§b CobbleStone §7»
+    name: CobbleStone
   item4:
     item: glass block
     number: 20
     prix: 7
-    name: §7«§b Block de Verre §7»
+    name: Block de Verre
   item5:
     item: oak log
     number: 12
     prix: 7
-    name: §7«§b Bois de chêne §7»
+    name: Bois de chêne
   item6:
     item: cooked porkchop
     number: 8
     prix: 18
-    name: §7«§b Porc Cuit §7»
+    name: Porc Cuit
   item7:
     item: 0
     number: 0
@@ -90,27 +90,27 @@ shop2:
     item: coal
     number: 16
     prix: 22
-    name: §7«§b Charbon §7»
+    name: Charbon
   item3:
     item: sugar cane
     number: 16
     prix: 16
-    name: §7«§b Canne à sucre §7»
+    name: Canne à sucre
   item4:
     item: bone
     number: 16
     prix: 25
-    name: §7«§b Os §7»
+    name: Os
   item5:
     item: leather
     number: 8
     prix: 32
-    name: §7«§b Cuir §7»
+    name: Cuir
   item6:
     item: iron ingot
     number: 5
     prix: 15
-    name: §7«§b Lingot de Fer §7»
+    name: Lingot de Fer
   item7:
     item: 0
     number: 0
@@ -167,37 +167,37 @@ shop3:
     item: gold ingot
     number: 5
     prix: 25
-    name: §7«§b Lingot d'Or §7»
+    name: Lingot d'Or
   item2:
     item: chest
     number: 8
     prix: 12
-    name: §7«§b Coffre §7»
+    name: Coffre
   item3:
     item: armor stand
     number: 1
     prix: 2
-    name: §7«§b Porte Armure §7»
+    name: Porte Armure
   item4:
     item: iron helmet
     number: 1
     prix: 18
-    name: §7«§b Casque en Fer §7»
+    name: Casque en Fer
   item5:
     item: iron chestplate
     number: 1
     prix: 27
-    name: §7«§b Plastron en Fer §7»
+    name: Plastron en Fer
   item6:
     item: iron leggings
     number: 1
     prix: 24
-    name: §7«§b Pantalon en Fer §7»
+    name: Pantalon en Fer
   item7:
     item: iron boots
     number: 1
     prix: 15
-    name: §7«§b Bottes en Fer §7»
+    name: Bottes en Fer
   item8:
     item: 0
     number: 0
@@ -254,27 +254,27 @@ shop4:
     item: iron block
     number: 3
     prix: 80
-    name: §7«§b Block de Fer §7»
+    name: Block de Fer
   item3:
     item: apple
     number: 24
     prix: 40
-    name: §7«§b Pomme §7»
+    name: Pomme
   item4:
     item: glowstone dust
     number: 64
     prix: 64
-    name: §7«§b Poudre de Luminite §7»
+    name: Poudre de Luminite
   item5:
     item: nether wart item
     number: 32
     prix: 32
-    name: §7«§b Verrues du Nether §7»
+    name: Verrues du Nether
   item6:
     item: diamond
     number: 5
     prix: 75
-    name: §7«§b Diamant §7»
+    name: Diamant
   item7:
     item: 0
     number: 0
@@ -331,37 +331,37 @@ shop5:
     item: diamond
     number: 5
     prix: 85
-    name: §7«§b Diamant §7»
+    name: Diamant
   item2:
     item: gold block
     number: 3
     prix: 162
-    name: §7«§b Block d'Or §7»
+    name: Block d'Or
   item3:
     item: iron block
     number: 5
     prix: 190
-    name: §7«§b Block de Fer §7»
+    name: Block de Fer
   item4:
     item: blaze rod
     number: 3
     prix: 30
-    name: §7«§b Baton de Blaze §7»
+    name: Baton de Blaze
   item5:
     item: redstone dust
     number: 32
     prix: 32
-    name: §7«§b Redstone §7»
+    name: Redstone
   item6:
     item: string
     number: 32
     prix: 50
-    name: §7«§b Fil §7»
+    name: Fil
   item7:
     item: cocoa beans
     number: 16
     prix: 20
-    name: §7«§b Poudre cacao §7»
+    name: Poudre cacao
   item8:
     item: 0
     number: 0
@@ -418,27 +418,27 @@ shop6:
     item: carrot
     number: 32
     prix: 25
-    name: §7«§b Carotte §7»
+    name: Carotte
   item3:
     item: cookie
     number: 32
     prix: 15
-    name: §7«§b Cookie §7»
+    name: Cookie
   item4:
     item: emerald
     number: 3
     prix: 60
-    name: §7«§b Emeraude §7»
+    name: Emeraude
   item5:
     item: phantom membrane
     number: 3
     prix: 25
-    name: §7«§b Membrane de Fantôme §7»
+    name: Membrane de Fantôme
   item6:
     item: kelp
     number: 16
     prix: 8
-    name: §7«§b Algue §7»
+    name: Algue
   item7:
     item: 0
     number: 0
@@ -495,42 +495,42 @@ shop7:
     item: chorus fruit item
     number: 16
     prix: 35
-    name: §7«§b Fruit de l'End §7»
+    name: Fruit de l'End
   item2:
     item: melon slice
     number: 9
     prix: 10
-    name: §7«§b Melon §7»
+    name: Melon
   item3:
     item: beetroot
     number: 32
     prix: 50
-    name: §7«§b Betrave §7»
+    name: Betrave
   item4:
     item: potato
     number: 32
     prix: 25
-    name: §7«§b Patate §7»
+    name: Patate
   item5:
     item: pumpkin 
     number: 16
     prix: 30
-    name: §7«§b Citrouille §7»
+    name: Citrouille
   item6:
     item: wheat
     number: 32
     prix: 35
-    name: §7«§b Blé §7»
+    name: Blé
   item7:
     item: Golden Carrot
     number: 16
     prix: 32
-    name: §7«§b Golden Carrot §7»
+    name: Golden Carrot
   item8:
     item: cactus
     number: 16
     prix: 32
-    name: §7«§b Cactus §7»
+    name: Cactus
   item9:
     item: 0
     number: 0
@@ -577,32 +577,32 @@ shop8:
     item: pufferfish
     number: 5
     prix: 60
-    name: §7«§b Poisson Globe §7»
+    name: Poisson Globe
   item2:
     item: cod
     number: 10
     prix: 40
-    name: §7«§b Morue §7»
+    name: Morue
   item3:
     item: salmon
     number: 10
     prix: 40
-    name: §7«§b Saumon §7»
+    name: Saumon
   item4:
     item: rabbit stew
     number: 1
     prix: 50
-    name: §7«§b Ragout de Lapin §7»
+    name: Ragout de Lapin
   item5:
     item: cake
     number: 1
     prix: 65
-    name: §7«§b Gâteau §7»
+    name: Gâteau
   item6:
     item: dried kelp block
     number: 5
     prix: 55
-    name: §7«§b Block d'algue séchée §7»
+    name: Block d'algue séchée
   item7:
     item: 0
     number: 0
@@ -659,37 +659,37 @@ shop9:
     item: blue ice
     number: 64
     prix: 200
-    name: §7«§b Glace Bleue §7»
+    name: Glace Bleue
   item2:
     item: packed ice
     number: 64
     prix: 100
-    name: §7«§b Glace Compactée §7»
+    name: Glace Compactée
   item3:
     item: ice
     number: 64
     prix: 30
-    name: §7«§b Glace §7»
+    name: Glace
   item4:
     item: heart of the sea
     number: 1
     prix: 150
-    name: §7«§b Coeur de la mer §7»
+    name: Coeur de la mer
   item5:
     item: conduit
     number: 1
     prix: 260
-    name: §7«§b Conduit §7»
+    name: Conduit
   item6:
     item: name tag
     number: 3
     prix: 80
-    name: §7«§b Etiquette §7»
+    name: Etiquette
   item7:
     item: turtle egg
     number: 16
     prix: 70
-    name: §7«§b Oeuf de Tortue §7»
+    name: Oeuf de Tortue
   item8:
     item: 0
     number: 0
@@ -756,7 +756,7 @@ shop10:
     item: Lapis Block
     number: 5
     prix: 100
-    name: §7«§b Block de Lapis §7»
+    name: Block de Lapis
   item5:
     item: 0
     number: 0
@@ -910,27 +910,27 @@ shop12:
     item: Nether Quartz
     number: 32
     prix: 32
-    name: §7«§b Quartz §7»
+    name: Quartz
   item3:
     item: iron block
     number: 5
     prix: 285
-    name: §7«§b Block de Fer §7»
+    name: Block de Fer
   item4:
     item: wither skeleton skull
     number: 1
     prix: 225
-    name: §7«§b Tête de wither squelette §7»
+    name: Tête de wither squelette
   item5:
     item: Slimeball
     number: 16
     prix: 32
-    name: §7«§b Boule de Slime §7»
+    name: Boule de Slime
   item6:
     item: Tnt
     number: 8
     prix: 50
-    name: §7«§b Tnt §7»
+    name: Tnt
     name: 0
   item7:
     item: 0
@@ -988,32 +988,32 @@ shop13:
     item: Dragon Egg
     number: 1
     prix: 750
-    name: §7«§b Oeuf d'Ender Dragon §7»
+    name: Oeuf d'Ender Dragon
   item2:
     item: elytra
     number: 1
     prix: 160
-    name: §7«§b Elytra §7»
+    name: Elytra
   item3:
     item: Ender pearl
     number: 64
     prix: 8
-    name: §7«§b Perle de l'Ender §7»
+    name: Perle de l'Ender
   item4:
     item: Shulker box
     number: 1
     prix: 125
-    name: §7«§b Shulker Box §7»
+    name: Shulker Box
   item5:
     item: End Crystal
     number: 1
     prix: 150
-    name: §7«§b End Crystal §7»
+    name: End Crystal
   item6:
     item: Dragon Head
     number: 1
     prix: 200
-    name: §7«§b Tête de Dragon §7»
+    name: Tête de Dragon
   item7:
     item: 0
     number: 0
@@ -1075,7 +1075,7 @@ shop14:
     item: trident
     number: 1
     prix: 300
-    name: §7«§b trident §7»
+    name: trident
   item3:
     item: enchanted golden apple
     number: 1
@@ -1085,22 +1085,22 @@ shop14:
     item: sugar cane
     number: 16
     prix: 28
-    name: §7«§b Canne à sucre §7»
+    name: Canne à sucre
   item5:
     item: melon slice
     number: 9
     prix: 16
-    name: §7«§b Melon §7»
+    name: Melon
   item6:
     item: pumpkin 
     number: 16
     prix: 42
-    name: §7«§b Citrouille §7»
+    name: Citrouille
   item7:
     item: Glistering Melon Slice
     number: 8
     prix: 24
-    name: §7«§b Glistering Melon §7»
+    name: Glistering Melon
   item8:
     item: 0
     number: 0
