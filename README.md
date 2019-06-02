@@ -1,5 +1,5 @@
 # Electryon
-A minecraft 1.13.2 (maybe a 1.14 in less than 2 weeks) french server's developpement register.
+A minecraft 1.14.2 french server's developpement register.
 
 (Répertoire de développement du serveur minecraft français electryon)
 
