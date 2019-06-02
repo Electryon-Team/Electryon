@@ -34,51 +34,6 @@ shop1:
     number: 0
     prix: 0
     name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop2:
   item1: 
@@ -112,51 +67,6 @@ shop2:
     prix: 15
     name: Lingot de Fer
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -198,51 +108,6 @@ shop3:
     number: 1
     prix: 15
     name: Bottes en Fer
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop4:
   item1:
@@ -276,51 +141,6 @@ shop4:
     prix: 75
     name: Diamant
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -362,51 +182,6 @@ shop5:
     number: 16
     prix: 20
     name: Poudre de cacao
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop6:
   item1:
@@ -440,51 +215,6 @@ shop6:
     prix: 8
     name: Algue
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -526,51 +256,6 @@ shop7:
     number: 16
     prix: 32
     name: Carrote dorée
-  item8:
-    item: cactus
-    number: 16
-    prix: 32
-    name: Cactus
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop8:
   item1:
@@ -604,51 +289,6 @@ shop8:
     prix: 55
     name: Block d'algue séchée
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -690,51 +330,6 @@ shop9:
     number: 16
     prix: 70
     name: Oeuf de Tortue
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop10:
   item1:
@@ -768,51 +363,6 @@ shop10:
     prix: 0
     name: 0
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -854,51 +404,6 @@ shop11:
     number: 32
     prix: 19
     name: Bûche d'acajou
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop12:
   item1:
@@ -919,7 +424,7 @@ shop12:
   item4:
     item: wither skeleton skull
     number: 1
-    prix: 225
+    prix: 175
     name: Tête de wither squelette
   item5:
     item: Slimeball
@@ -929,54 +434,9 @@ shop12:
   item6:
     item: Tnt
     number: 8
-    prix: 50
+    prix: 25
     name: Tnt
   item7:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
     item: 0
     number: 0
     prix: 0
@@ -1006,7 +466,7 @@ shop13:
   item5:
     item: End Crystal
     number: 1
-    prix: 150
+    prix: 100
     name: Crystal de l'End
   item6:
     item: Dragon Head
@@ -1018,57 +478,12 @@ shop13:
     number: 0
     prix: 0
     name: 0
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
 
 shop14:
   item1:
     item: nether star
     number: 1
-    prix: 750
+    prix: 650
     name: Étoile du Nether
   item2:
     item: trident
@@ -1100,48 +515,3 @@ shop14:
     number: 8
     prix: 24
     name: Melon Scintillant
-  item8:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item9:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item10:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item11:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item12:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item13:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item14:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item15:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
-  item16:
-    item: 0
-    number: 0
-    prix: 0
-    name: 0
